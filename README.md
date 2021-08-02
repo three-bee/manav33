@@ -1,11 +1,12 @@
 # manav33
 **Middle East Technical University, Electrical-Electronics Engineering Department, Spring 2021 Term**  
 **EE314 Digital Electronics Laboratory Term Project**  
-**FPGA Based Point-of-Sale Terminal**
 
-[Project Details](https://github.com/3b83/manav33/files/6918791/EE314.Term.Project.-.Spring.21.pdf)  
-[Evaluation Rubric](https://github.com/3b83/manav33/files/6918792/EE314.Term.Project.-.Evaluation.Rubric.pdf)  
-[Final Report](https://github.com/3b83/manav33/files/6918801/Group33_Report.pdf)
+FPGA (Altera Cyclone V) Based Point-of-Sale Terminal.
+
+* [Project Details](https://github.com/3b83/manav33/files/6918791/EE314.Term.Project.-.Spring.21.pdf)  
+* [Evaluation Rubric](https://github.com/3b83/manav33/files/6918792/EE314.Term.Project.-.Evaluation.Rubric.pdf)  
+* [Final Report](https://github.com/3b83/manav33/files/6918801/Group33_Report.pdf)
 
 ## Group Members
 * Yavuz Selim Özkaya: Most of the VGA-related stuff
