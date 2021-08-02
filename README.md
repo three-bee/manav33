@@ -9,7 +9,7 @@ FPGA (Altera Cyclone V) Based Point-of-Sale Terminal.
 * [Final Report](https://github.com/3b83/manav33/files/6918801/Group33_Report.pdf)
 
 ## Group Members
-* Yavuz Selim Özkaya: Most of the VGA-related stuff
+* Yavuz Selim Özkaya: Most of the VGA-related stuff and testing
 * Yasin Enes Çalışkan: VGA
 * Muhammed Enes Alkan: VGA
 * Ramazan Yaz: POS logic
