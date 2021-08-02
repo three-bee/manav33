@@ -16,7 +16,7 @@ FPGA (Altera Cyclone V) Based Point-of-Sale Terminal.
 * Bahri Batuhan Bilecen: POS logic
 
 ## Overview
-For more detail, check out the [final report](https://github.com/3b83/manav33/files/6918801/Group33_Report.pdf). Below is the code hierarchy:
+For more detail, check out the [final report](https://github.com/3b83/manav33/files/6918801/Group33_Report.pdf) and comment blocks on the code. Below is the code hierarchy:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/54000095/127904753-f787f5fc-e2ce-4068-b574-48bc5fd18cb0.PNG">
 </p>
