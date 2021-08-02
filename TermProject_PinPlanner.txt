@@ -1,0 +1,36 @@
+Node Name	Direction	Location
+
+CLOCK_50	Input		PIN_AA16
+KEY[3]		Input		PIN_Y16
+KEY[2]		Input		PIN_W15
+KEY[1]		Input		PIN_AA15
+KEY[0]		Input		PIN_AA14
+SW[1]		Input		PIN_AC12
+SW[0]		Input		PIN_AB12
+VGA_B[7]	Output		PIN_J14
+VGA_B[6]	Output		PIN_G15
+VGA_B[5]	Output		PIN_F15
+VGA_B[4]	Output		PIN_H14
+VGA_B[3]	Output		PIN_F14
+VGA_B[2]	Output		PIN_H13
+VGA_B[1]	Output		PIN_G13
+VGA_B[0]	Output		PIN_B13
+VGA_CLK		Output		PIN_A11
+VGA_G[7]	Output		PIN_E11
+VGA_G[6]	Output		PIN_F11
+VGA_G[5]	Output		PIN_G12
+VGA_G[4]	Output		PIN_G11
+VGA_G[3]	Output		PIN_G10
+VGA_G[2]	Output		PIN_H12
+VGA_G[1]	Output		PIN_J10
+VGA_G[0]	Output		PIN_J9
+VGA_HS		Output		PIN_B11
+VGA_R[7]	Output		PIN_F13
+VGA_R[6]	Output		PIN_E12
+VGA_R[5]	Output		PIN_D12
+VGA_R[4]	Output		PIN_C12
+VGA_R[3]	Output		PIN_B12
+VGA_R[2]	Output		PIN_E13
+VGA_R[1]	Output		PIN_C13
+VGA_R[0]	Output		PIN_A13
+VGA_VS		Output		PIN_D11
